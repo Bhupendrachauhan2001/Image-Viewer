@@ -1,0 +1,31 @@
+.mainImg img{
+    width: 900px;
+    height: 500px;
+}
+.mainImg {
+    margin: auto;
+    text-align: center;
+}
+
+.smallImagContainer{
+    display: block;
+    display: flex;
+    justify-content:space-around;
+    align-items:center;
+    width: 100%;
+    margin: auto;
+    margin: auto;
+    text-align: center;
+    padding: 2px 0;
+    border: 2px solid black;
+    /* margin: auto; */
+}
+.smallImg{
+    padding: 2px;
+    border: 2px solid red;
+}
+.smallImagContainer img{
+    width: 190px;
+    height: 20vh;
+
+}
